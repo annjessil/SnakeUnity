@@ -157,7 +157,7 @@ public class Snek : MonoBehaviour
             blockCoords.Add(newHeadCoord);
         }
 
-        float speedMult = 1.0f;
+        float speedMult = 2.0f;
 
         // multiply speed by sprintSpeedMult
         // while Sprint is held down
